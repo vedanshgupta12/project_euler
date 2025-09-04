@@ -1,7 +1,6 @@
 # project_euler_solution
-My first GIT repository.
-<br>
 Author - Vedansh Prakash Gupta
+<br>
 Project Euler Solutions in Java
 
 Welcome to my repository of Project Euler problem solutions, implemented in Java. This repo contains solutions to various mathematical and algorithmic challenges designed to test problem-solving skills and improve programming proficiency.
@@ -26,3 +25,6 @@ Largest Prime Factor — Finds the largest prime factor of a given number.
 Largest Palindrome Product — Finds the largest palindrome made from the product of two 3-digit numbers.
 
 ...and many more.
+
+License
+This project is licensed under the MIT License.
