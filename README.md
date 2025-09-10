@@ -1,7 +1,7 @@
 # project_euler_solution
 Author - Vedansh Prakash Gupta
 <br>
-Project Euler Solutions in Java
+Project Euler Solutions in Java and JavaScrpit
 
 Welcome to my repository of Project Euler problem solutions, implemented in Java. This repo contains solutions to various mathematical and algorithmic challenges designed to test problem-solving skills and improve programming proficiency.
 
